@@ -22,5 +22,6 @@ This project utilizes the DreamShaper XL model for text-to-image generation. Giv
 ## Some Generated Examples
 
 ![image](https://github.com/Anshg07/Image_generator/assets/96684989/078c33a5-aa70-4f65-9641-d3d7a736c68a)
+![download](https://github.com/Anshg07/Image_generator/assets/96684989/66dec28f-c4d8-4de8-a5cf-62c87a15a2ad)
 ![download](https://github.com/Anshg07/Image_generator/assets/96684989/9fcfdc7d-af74-4183-9591-3809eb4038ae)
 ![download](https://github.com/Anshg07/Image_generator/assets/96684989/d52cabd8-b620-405a-a8a3-feb1684499b5)
